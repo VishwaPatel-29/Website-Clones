@@ -4,7 +4,7 @@ Welcome to my **Website Clones Collection** 🚀
 This repository showcases multiple real-world website clones built to strengthen my frontend development skills and improve my understanding of UI design, layout structure, and styling techniques.
 
 🔗 **GitHub Profile:**
-https://github.com/Vishwa-29-design
+https://github.com/VishwaPatel-29
 
 ---
 
