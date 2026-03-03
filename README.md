@@ -30,7 +30,7 @@ https://youtu.be/qpuypRk-kHU?si=01SZrL_w6Xxa78k8
 https://1dreamgamesbyvishwa.netlify.app
 
 💻 **Source Code:**
-https://github.com/Vishwa-29-design/Website-Clones/tree/main/Dream%20Games
+https://github.com/VishwaPatel-29/Website-Clones/tree/main/Dream%20Games
 
 ---
 
@@ -46,7 +46,7 @@ https://youtu.be/RQ4pQbU8kDk?si=zpjeJ67oFmmvpRoN
 https://2blackbuckbyvishwa.netlify.app
 
 💻 **Source Code:**
-https://github.com/Vishwa-29-design/Website-Clones/tree/main/BlackBuck
+https://github.com/VishwaPatel-29/Website-Clones/tree/main/BlackBuck
 
 ---
 
@@ -62,7 +62,7 @@ https://youtu.be/T8qkhnWFJAE?si=NdXdypUkld4IEugS
 https://3duerbyvishwa.netlify.app
 
 💻 **Source Code:**
-https://github.com/Vishwa-29-design/Website-Clones/tree/main/DUER
+https://github.com/VishwaPatel-29/Website-Clones/tree/main/DUER
 
 ---
 
@@ -78,7 +78,7 @@ https://youtu.be/ZqLmpTiehS4?si=hVkocycWwTVFSogn
 https://4newestvishwa.netlify.app
 
 💻 **Source Code:**
-https://github.com/Vishwa-29-design/Website-Clones/tree/main/Newest%20By%20Onecenter
+https://github.com/VishwaPatel-29/Website-Clones/tree/main/Newest%20By%20Onecenter
 
 ---
 
@@ -94,7 +94,7 @@ https://youtu.be/xAqxdDYYGFQ?si=CuwN3TnifZakHiOo
 https://5owndbyvishwa.netlify.app
 
 💻 **Source Code:**
-https://github.com/Vishwa-29-design/Website-Clones/tree/main/OWND!
+https://github.com/VishwaPatel-29/Website-Clones/tree/main/OWND!
 
 ---
 
@@ -110,7 +110,7 @@ https://youtu.be/V1C_FiXOFpU?si=EG6AhhCZWFaM6HhM
 https://6udaanbyvishwa.netlify.app
 
 💻 **Source Code:**
-https://github.com/Vishwa-29-design/Website-Clones/tree/main/Udaan
+https://github.com/VishwaPatel-29/Website-Clones/tree/main/Udaan
 
 ---
 
