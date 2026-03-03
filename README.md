@@ -27,7 +27,7 @@ A platform focused on mobile and online gaming, offering a variety of casual and
 https://youtu.be/qpuypRk-kHU?si=01SZrL_w6Xxa78k8
 
 🔗 **Live Site:**
-https://1dreamgamesbyvishwa.netlify.app
+https://1stwebsite-dreamgames-vishwa.netlify.app/
 
 💻 **Source Code:**
 https://github.com/VishwaPatel-29/Website-Clones/tree/main/Dream%20Games
@@ -43,7 +43,7 @@ India’s leading logistics and trucking platform, designed to connect shippers 
 https://youtu.be/RQ4pQbU8kDk?si=zpjeJ67oFmmvpRoN
 
 🔗 **Live Site:**
-https://2blackbuckbyvishwa.netlify.app
+https://2ndwebsite-blackbuck-vishwa.netlify.app/
 
 💻 **Source Code:**
 https://github.com/VishwaPatel-29/Website-Clones/tree/main/BlackBuck
@@ -59,7 +59,7 @@ A clone of a Canadian clothing brand website showcasing modern fashion layouts, 
 https://youtu.be/T8qkhnWFJAE?si=NdXdypUkld4IEugS
 
 🔗 **Live Site:**
-https://3duerbyvishwa.netlify.app
+https://3rdwebsite-duer-vishwa.netlify.app/
 
 💻 **Source Code:**
 https://github.com/VishwaPatel-29/Website-Clones/tree/main/DUER
@@ -75,7 +75,7 @@ A layout-focused clone presenting organized information and structured sections 
 https://youtu.be/ZqLmpTiehS4?si=hVkocycWwTVFSogn
 
 🔗 **Live Site:**
-https://4newestvishwa.netlify.app
+https://4thwebsite-newestbyoncenter-vishwaa.netlify.app/
 
 💻 **Source Code:**
 https://github.com/VishwaPatel-29/Website-Clones/tree/main/Newest%20By%20Onecenter
@@ -91,7 +91,7 @@ A website builder landing page clone demonstrating clean design, section structu
 https://youtu.be/xAqxdDYYGFQ?si=CuwN3TnifZakHiOo
 
 🔗 **Live Site:**
-https://5owndbyvishwa.netlify.app
+https://5thwebsite-ownd-vishwa.netlify.app/
 
 💻 **Source Code:**
 https://github.com/VishwaPatel-29/Website-Clones/tree/main/OWND!
@@ -107,7 +107,7 @@ A B2B e-commerce platform clone focusing on layout accuracy, product showcasing,
 https://youtu.be/V1C_FiXOFpU?si=EG6AhhCZWFaM6HhM
 
 🔗 **Live Site:**
-https://6udaanbyvishwa.netlify.app
+https://6thwebsite-udaan-vishwa.netlify.app/
 
 💻 **Source Code:**
 https://github.com/VishwaPatel-29/Website-Clones/tree/main/Udaan
